@@ -121,3 +121,4 @@ tmp.md
 # Ansible collection files
 kubernetes_sigs-kubespray*tar.gz
 ansible_collections
+inventory/humap/group_vars/all/all.yml
